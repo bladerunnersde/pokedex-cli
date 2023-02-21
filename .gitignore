@@ -1,0 +1,19 @@
+# macOS system files to ignore
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Files that should generally not be committed
+node_modules/
+build/
+dist/
+venv/
+.idea/
+*.pyc
+*.log
+.env
+.env.local
+
+# Generated files
+*.DS_Store
+Thumbs.db

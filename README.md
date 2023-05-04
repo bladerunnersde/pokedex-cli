@@ -39,3 +39,4 @@ Your Pokedex:
 8. Use the PokeAPI to make exploration more interesting. For example, rather than typing the names of areas, maybe you are given choices of areas and just type "left" or "right"
 9. Random encounters with wild pokemon
 10. Adding support for different types of balls (Pokeballs, Great Balls, Ultra Balls, etc), which have different chances of catching pokemon
+11. Moving the CLI app to the Web
